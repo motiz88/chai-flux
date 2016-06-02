@@ -1,4 +1,9 @@
 toc:
-  - name: js-starter-2016
+  - name: chai-flux
     description: |
-      <h4>starter-description</h4>
+      <h4>Chai assertions for Flux actions</h4>
+  - name: Usage
+    description: |
+      ```javascript
+      chai.use(require('chai-flux'));
+      ```
