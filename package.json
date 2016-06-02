@@ -24,7 +24,7 @@
     "type": "git",
     "url": "https://github.com/motiz88/chai-flux.git"
   },
-  "keywords": [],
+  "keywords": ["chai", "flux", "chai-plugin", "fsa", "flux-standard-action", "redux"],
   "author": "Moti Zilberman <motiz88@gmail.com>",
   "license": "MIT",
   "bugs": {
